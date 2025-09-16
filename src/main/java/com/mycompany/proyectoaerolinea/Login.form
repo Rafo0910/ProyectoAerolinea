@@ -118,7 +118,7 @@
             <Component class="javax.swing.JLabel" name="jLabel1">
               <Properties>
                 <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                  <Image iconType="3" name="/com/mycompany/proyectoaerolinea/avion.png"/>
+                  <Image iconType="3" name="/images/avion.png"/>
                 </Property>
               </Properties>
             </Component>
@@ -141,14 +141,14 @@
             <Component class="javax.swing.JLabel" name="jLabel5">
               <Properties>
                 <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                  <Image iconType="3" name="/com/mycompany/proyectoaerolinea/nube.png"/>
+                  <Image iconType="3" name="/images/nube.png"/>
                 </Property>
               </Properties>
             </Component>
             <Component class="javax.swing.JLabel" name="jLabel6">
               <Properties>
                 <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                  <Image iconType="3" name="/com/mycompany/proyectoaerolinea/nubes.png"/>
+                  <Image iconType="3" name="/images/nubes.png"/>
                 </Property>
               </Properties>
             </Component>
